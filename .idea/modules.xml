@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Nueva carpeta/.idea/Nueva carpeta.iml" filepath="$PROJECT_DIR$/../../Nueva carpeta/.idea/Nueva carpeta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../formulario javascript/.idea/formulario javascript.iml" filepath="$PROJECT_DIR$/../formulario javascript/.idea/formulario javascript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/proyecto_peliculas.iml" filepath="$PROJECT_DIR$/.idea/proyecto_peliculas.iml" />
+    </modules>
+  </component>
+</project>
